@@ -1,4 +1,4 @@
-# isGrafLab
+# Introduction
 
 isGrafLab (Irregular Surface GRAvity Field LABoratory) is a modified version of
 [GrafLab](https://github.com/blazej-bucha/graflab) to perform accurate and fast
