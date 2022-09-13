@@ -5,7 +5,7 @@ isGrafLab (Irregular Surface GRAvity Field LABoratory) is a modified version of
 computation of functionals of the geopotential at dense grids residing on
 irregular surfaces such as the Earth's surface. It employs the lumped
 coefficients approach for surface spherical harmonic synthesis of gravity field
-quantities and their radial derivatives at regular surfaces (sphere or
+quantities and their vertical derivatives at regular surfaces (sphere or
 ellipsoid of revolution), and then it continues the quantities to the irregular
 surface using the Talor series.
 

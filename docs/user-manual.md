@@ -14,13 +14,19 @@ directory of the repository.
   * Define the ellipsoidal coordinates of the irregular surface grid as
     follows:
 
-    Lat. min (°)  = 48
-    Lat. step (°) =  1
-    Lat. max (°)  = 49
-    Lon. min (°)  = 20
-    Lon. step (°) =  1
-    Lon. max (°)  = 22
-    Height above the reference surface (m) = 0
+    * Set the `Lat. min (deg)` field to `48`
+
+    * Set the `Lat. step (deg)` field to `1`
+
+    * Set the `Lat. max (deg)` field to `49`
+
+    * Set the `Lon. min (deg)` field to `20`
+
+    * Set the `Lon. step (deg)` field to `1`
+
+    * Set the `Lon. max (deg)` field to `22`
+
+    * Set the `Height above the reference surface (m)` field to `0`.
 
   * Click the `Browse...` button to import the input DEM file
     `./data/input/input-dem.txt`.  This file specifies the vertical position of
