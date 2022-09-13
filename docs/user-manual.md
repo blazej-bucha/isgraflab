@@ -89,7 +89,8 @@ isGrafLab('OK',...
 ```
 
 * The description of the input variables can be found in the source code (look
-  for the text: `function isGrafLab` in `./isGrafLab.m`).
+  for the text: `function isGrafLab` in `./isGrafLab.m`) or in the GrafLab
+  [cookbook](https://github.com/blazej-bucha/graflab-cookbook).
 
 * Compare your output file, `../data/output/my_output.txt`, with the
   reference file `../data/output/output.txt`.

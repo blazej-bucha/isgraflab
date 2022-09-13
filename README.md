@@ -19,7 +19,8 @@ Detailed isGrafLab cookbook is available at
 [https://github.com/blazej-bucha/graflab-cookbook](https://github.com/blazej-bucha/graflab-cookbook).
 
 The equations implemented in isGrafLab can be found in the documentation of
-[GrafLab](https://github.com/blazej-bucha/graflab) (see the `docs` folder).
+[GrafLab](https://github.com/blazej-bucha/graflab) (see the `docs` folder
+therein).
 
 
 # Contributing
